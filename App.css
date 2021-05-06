@@ -1,0 +1,101 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.ul1{
+display: inline;
+color: pink;
+
+}
+.lbl1{
+  margin-left: 30px;
+  padding-left: 17px;
+  font-weight: 500;
+  width: 20px;
+  
+}
+.tr1{
+  background-color: rgb(243, 243, 243);
+}
+.lbl1:hover{
+background-color: rgb(10, 115, 236);
+color: white;
+width:20%;
+}
+.img1{
+  margin-left: 1000px;
+}
+.img2{
+  margin-left: 10px;
+}
+.sidebar{
+  background-color: powderblue;
+  width: 15%;
+  margin-bottom: 10px;
+}
+.div2{
+  padding-left: 30px;
+
+}
+.side_div{
+  background-color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.side_inpt{
+  padding: 7px;
+  width: 90%;
+  margin-left: 5px;
+}
+.div_3{
+  background-color:rgb(207, 238, 238);
+}
+.div_4{
+  background-color:rgb(240, 239, 239) ;
+}
+
+.td_x{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.tbl2{
+  margin-left: 20px;
+}
